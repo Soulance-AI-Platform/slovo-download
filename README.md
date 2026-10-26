@@ -11,9 +11,9 @@
 
 | Компьютер | Файл |
 |---|---|
-| Mac на чипе Apple (M1, M2, M3, M4…) | `slovo_…_mac_apple-silicon.dmg` |
-| Mac на процессоре Intel | `slovo_…_mac_intel.dmg` |
-| Windows | `slovo_…_windows_x64-setup.exe` |
+| Mac на чипе Apple (M1, M2, M3, M4…) | `slovo_mac_apple-silicon.dmg` |
+| Mac на процессоре Intel | `slovo_mac_intel.dmg` |
+| Windows | `slovo_windows_x64-setup.exe` |
 
 Какой у вас Mac: меню  → «Об этом Mac». Если в строке «Чип» написано Apple M…, берите
 apple-silicon, если в строке «Процессор» написано Intel — intel.
